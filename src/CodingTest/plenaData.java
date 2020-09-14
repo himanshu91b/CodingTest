@@ -9,7 +9,7 @@ public class plenaData extends Throwable { // extended with thowable in case to 
 
     Map<Character, Integer> map = new HashMap<>();  // Declared globally to reduce code repetition and complexity
 
-    public void codeChallenge(String s)
+    public void codeChallenge(String s) //This class calls methods and show the result on console.
     {
         System.out.println("Entered String Is: " + s);
 
